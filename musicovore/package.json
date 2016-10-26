@@ -1,0 +1,23 @@
+{
+  "name": "filmovore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "allocine-api": "^0.1.9",
+    "body-parser": "^1.15.2",
+    "disconnect": "^0.9.1",
+    "express": "^4.14.0",
+    "inquirer": "^1.2.2",
+    "lodash": "^4.16.4",
+    "pug": "^2.0.0-beta6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
