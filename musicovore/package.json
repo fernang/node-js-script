@@ -12,7 +12,10 @@
     "lodash": "^4.16.4",
     "pug": "^2.0.0-beta6"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "eslint": "^3.9.0",
+    "eslint-config-google": "^0.7.0"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
